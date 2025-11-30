@@ -1,0 +1,4 @@
+generation,best_time,experiment,technique,rep
+0,0.07676267623901367,mmm,RandomNelderMead,3
+0,0.03653883934020996,mmm,RandomNelderMead,3
+1,0.02840137481689453,mmm,RandomNelderMead,3

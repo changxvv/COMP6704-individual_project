@@ -1,0 +1,7 @@
+generation,best_time,experiment,technique,rep
+0,0.05699014663696289,mmm,AUCBanditMetaTechniqueA,1
+0,0.05694460868835449,mmm,AUCBanditMetaTechniqueA,1
+0,0.036867618560791016,mmm,AUCBanditMetaTechniqueA,1
+0,0.0296175479888916,mmm,AUCBanditMetaTechniqueA,1
+1,0.02779555320739746,mmm,AUCBanditMetaTechniqueA,1
+1,0.02768111228942871,mmm,AUCBanditMetaTechniqueA,1

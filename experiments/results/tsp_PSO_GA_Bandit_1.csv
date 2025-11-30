@@ -1,0 +1,5 @@
+generation,best_time,experiment,technique,rep
+0,663.0,tsp,PSO_GA_Bandit,1
+0,613.0,tsp,PSO_GA_Bandit,1
+1,576.0,tsp,PSO_GA_Bandit,1
+1,486.0,tsp,PSO_GA_Bandit,1

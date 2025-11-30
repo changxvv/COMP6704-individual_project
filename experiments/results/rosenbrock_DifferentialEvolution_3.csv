@@ -1,0 +1,7 @@
+generation,best_time,experiment,technique,rep
+0,2356411369764.899,rosenbrock,DifferentialEvolution,3
+0,2186800510781.687,rosenbrock,DifferentialEvolution,3
+0,632275054394.1908,rosenbrock,DifferentialEvolution,3
+1,552657583577.195,rosenbrock,DifferentialEvolution,3
+1,31519604277.98717,rosenbrock,DifferentialEvolution,3
+4,1985513.1788316465,rosenbrock,DifferentialEvolution,3

@@ -1,0 +1,5 @@
+generation,best_time,experiment,technique,rep
+0,537.0,tsp,PureRandom,3
+5,532.0,tsp,PureRandom,3
+6,520.0,tsp,PureRandom,3
+13,449.0,tsp,PureRandom,3

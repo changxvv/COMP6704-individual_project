@@ -1,0 +1,6 @@
+generation,best_time,experiment,technique,rep
+0,0.5575830936431885,gccflags,DifferentialEvolution,1
+0,0.07050395011901855,gccflags,DifferentialEvolution,1
+1,0.07037854194641113,gccflags,DifferentialEvolution,1
+1,0.0697176456451416,gccflags,DifferentialEvolution,1
+6,0.06944465637207031,gccflags,DifferentialEvolution,1

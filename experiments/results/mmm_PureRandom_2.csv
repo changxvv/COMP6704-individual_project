@@ -1,0 +1,7 @@
+generation,best_time,experiment,technique,rep
+0,0.030759096145629883,mmm,PureRandom,2
+0,0.030365705490112305,mmm,PureRandom,2
+1,0.0293271541595459,mmm,PureRandom,2
+2,0.028502941131591797,mmm,PureRandom,2
+9,0.028470754623413086,mmm,PureRandom,2
+16,0.028444766998291016,mmm,PureRandom,2

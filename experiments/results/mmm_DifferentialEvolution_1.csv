@@ -1,0 +1,7 @@
+generation,best_time,experiment,technique,rep
+0,0.05884122848510742,mmm,DifferentialEvolution,1
+0,0.03116464614868164,mmm,DifferentialEvolution,1
+1,0.02997756004333496,mmm,DifferentialEvolution,1
+2,0.028679370880126953,mmm,DifferentialEvolution,1
+14,0.028642892837524414,mmm,DifferentialEvolution,1
+19,0.028287887573242188,mmm,DifferentialEvolution,1

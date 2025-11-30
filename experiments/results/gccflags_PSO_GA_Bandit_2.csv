@@ -1,0 +1,7 @@
+generation,best_time,experiment,technique,rep
+0,0.0837411880493164,gccflags,PSO_GA_Bandit,2
+0,0.08214998245239258,gccflags,PSO_GA_Bandit,2
+1,0.07098054885864258,gccflags,PSO_GA_Bandit,2
+2,0.07075047492980957,gccflags,PSO_GA_Bandit,2
+2,0.06971955299377441,gccflags,PSO_GA_Bandit,2
+3,0.06934976577758789,gccflags,PSO_GA_Bandit,2

@@ -1,0 +1,10 @@
+generation,best_time,experiment,technique,rep
+0,151133116960.03394,rosenbrock,PSO_GA_Bandit,2
+0,2314060596.670292,rosenbrock,PSO_GA_Bandit,2
+1,1580518069.3623672,rosenbrock,PSO_GA_Bandit,2
+4,1572824857.6108658,rosenbrock,PSO_GA_Bandit,2
+13,738016491.9357252,rosenbrock,PSO_GA_Bandit,2
+14,545351634.7252054,rosenbrock,PSO_GA_Bandit,2
+16,522194683.7179324,rosenbrock,PSO_GA_Bandit,2
+20,521697911.794931,rosenbrock,PSO_GA_Bandit,2
+23,2354243.298038595,rosenbrock,PSO_GA_Bandit,2

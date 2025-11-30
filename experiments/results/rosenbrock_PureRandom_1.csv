@@ -1,0 +1,5 @@
+generation,best_time,experiment,technique,rep
+0,14378365511486.088,rosenbrock,PureRandom,1
+0,13452157459762.184,rosenbrock,PureRandom,1
+0,2080548703705.7288,rosenbrock,PureRandom,1
+1,88157856.68174605,rosenbrock,PureRandom,1

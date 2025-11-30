@@ -1,0 +1,4 @@
+generation,best_time,experiment,technique,rep
+0,0.0703270435333252,gccflags,AUCBanditMetaTechniqueA,1
+0,0.07005953788757324,gccflags,AUCBanditMetaTechniqueA,1
+0,0.06855058670043945,gccflags,AUCBanditMetaTechniqueA,1

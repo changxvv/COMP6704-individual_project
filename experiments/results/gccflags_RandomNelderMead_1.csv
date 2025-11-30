@@ -1,0 +1,6 @@
+generation,best_time,experiment,technique,rep
+0,0.5424730777740479,gccflags,RandomNelderMead,1
+0,0.06994938850402832,gccflags,RandomNelderMead,1
+2,0.06994843482971191,gccflags,RandomNelderMead,1
+7,0.0691981315612793,gccflags,RandomNelderMead,1
+10,0.06878161430358887,gccflags,RandomNelderMead,1

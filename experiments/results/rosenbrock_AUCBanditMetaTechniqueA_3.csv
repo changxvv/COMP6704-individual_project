@@ -1,0 +1,9 @@
+generation,best_time,experiment,technique,rep
+0,83377272726.76718,rosenbrock,AUCBanditMetaTechniqueA,3
+0,1622345716.1257334,rosenbrock,AUCBanditMetaTechniqueA,3
+1,1419776133.2992606,rosenbrock,AUCBanditMetaTechniqueA,3
+1,806894503.7925423,rosenbrock,AUCBanditMetaTechniqueA,3
+1,804876466.6493694,rosenbrock,AUCBanditMetaTechniqueA,3
+2,1081419.231859389,rosenbrock,AUCBanditMetaTechniqueA,3
+5,58278.05193009997,rosenbrock,AUCBanditMetaTechniqueA,3
+16,51572.69928226335,rosenbrock,AUCBanditMetaTechniqueA,3
